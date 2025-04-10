@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Curso C#\primer_programa\bin\Debug\net5.0\primer_programa.exe
+C:\Users\PC\Desktop\Curso C#\primer_programa\bin\Debug\net5.0\primer_programa.deps.json
+C:\Users\PC\Desktop\Curso C#\primer_programa\bin\Debug\net5.0\primer_programa.runtimeconfig.json
+C:\Users\PC\Desktop\Curso C#\primer_programa\bin\Debug\net5.0\primer_programa.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Curso C#\primer_programa\bin\Debug\net5.0\primer_programa.dll
+C:\Users\PC\Desktop\Curso C#\primer_programa\bin\Debug\net5.0\ref\primer_programa.dll
+C:\Users\PC\Desktop\Curso C#\primer_programa\bin\Debug\net5.0\primer_programa.pdb
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.AssemblyInfo.cs
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.dll
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\ref\primer_programa.dll
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.pdb
+C:\Users\PC\Desktop\Curso C#\primer_programa\obj\Debug\net5.0\primer_programa.genruntimeconfig.cache

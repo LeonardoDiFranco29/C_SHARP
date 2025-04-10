@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\bin\Debug\net5.0\eje5.exe
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\bin\Debug\net5.0\eje5.deps.json
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\bin\Debug\net5.0\eje5.runtimeconfig.json
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\bin\Debug\net5.0\eje5.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\bin\Debug\net5.0\eje5.dll
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\bin\Debug\net5.0\ref\eje5.dll
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\bin\Debug\net5.0\eje5.pdb
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.AssemblyInfo.cs
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.dll
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\ref\eje5.dll
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.pdb
+C:\Users\PC\Desktop\Curso C#\Unidad4\eje5\obj\Debug\net5.0\eje5.genruntimeconfig.cache

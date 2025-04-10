@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.AssemblyInfo.cs
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Curso C#\sueldo\bin\Debug\net5.0\sueldo.exe
+C:\Users\PC\Desktop\Curso C#\sueldo\bin\Debug\net5.0\sueldo.deps.json
+C:\Users\PC\Desktop\Curso C#\sueldo\bin\Debug\net5.0\sueldo.runtimeconfig.json
+C:\Users\PC\Desktop\Curso C#\sueldo\bin\Debug\net5.0\sueldo.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Curso C#\sueldo\bin\Debug\net5.0\sueldo.dll
+C:\Users\PC\Desktop\Curso C#\sueldo\bin\Debug\net5.0\ref\sueldo.dll
+C:\Users\PC\Desktop\Curso C#\sueldo\bin\Debug\net5.0\sueldo.pdb
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.dll
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\ref\sueldo.dll
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.pdb
+C:\Users\PC\Desktop\Curso C#\sueldo\obj\Debug\net5.0\sueldo.genruntimeconfig.cache

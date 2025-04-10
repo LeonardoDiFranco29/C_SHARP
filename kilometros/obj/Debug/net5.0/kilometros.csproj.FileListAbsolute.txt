@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.AssemblyInfo.cs
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Curso C#\kilometros\bin\Debug\net5.0\kilometros.exe
+C:\Users\PC\Desktop\Curso C#\kilometros\bin\Debug\net5.0\kilometros.deps.json
+C:\Users\PC\Desktop\Curso C#\kilometros\bin\Debug\net5.0\kilometros.runtimeconfig.json
+C:\Users\PC\Desktop\Curso C#\kilometros\bin\Debug\net5.0\kilometros.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Curso C#\kilometros\bin\Debug\net5.0\kilometros.dll
+C:\Users\PC\Desktop\Curso C#\kilometros\bin\Debug\net5.0\ref\kilometros.dll
+C:\Users\PC\Desktop\Curso C#\kilometros\bin\Debug\net5.0\kilometros.pdb
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.dll
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\ref\kilometros.dll
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.pdb
+C:\Users\PC\Desktop\Curso C#\kilometros\obj\Debug\net5.0\kilometros.genruntimeconfig.cache

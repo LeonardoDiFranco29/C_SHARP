@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "elevado_al_cubo/1.0.0": {
+        "runtime": {
+          "elevado_al_cubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "elevado_al_cubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

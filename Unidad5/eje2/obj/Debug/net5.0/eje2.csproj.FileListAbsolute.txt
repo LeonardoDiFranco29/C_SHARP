@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\bin\Debug\net5.0\eje2.exe
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\bin\Debug\net5.0\eje2.deps.json
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\bin\Debug\net5.0\eje2.runtimeconfig.json
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\bin\Debug\net5.0\eje2.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\bin\Debug\net5.0\eje2.dll
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\bin\Debug\net5.0\ref\eje2.dll
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\bin\Debug\net5.0\eje2.pdb
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.AssemblyInfo.cs
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.dll
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\ref\eje2.dll
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.pdb
+C:\Users\PC\Desktop\Curso C#\Unidad5\eje2\obj\Debug\net5.0\eje2.genruntimeconfig.cache

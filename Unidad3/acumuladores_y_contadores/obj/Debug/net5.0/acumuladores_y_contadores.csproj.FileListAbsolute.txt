@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\bin\Debug\net5.0\acumuladores_y_contadores.exe
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\bin\Debug\net5.0\acumuladores_y_contadores.deps.json
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\bin\Debug\net5.0\acumuladores_y_contadores.runtimeconfig.json
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\bin\Debug\net5.0\acumuladores_y_contadores.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\bin\Debug\net5.0\acumuladores_y_contadores.dll
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\bin\Debug\net5.0\ref\acumuladores_y_contadores.dll
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\bin\Debug\net5.0\acumuladores_y_contadores.pdb
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.AssemblyInfo.cs
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.dll
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\ref\acumuladores_y_contadores.dll
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.pdb
+C:\Users\PC\Desktop\Curso C#\Unidad3\acumuladores_y_contadores\obj\Debug\net5.0\acumuladores_y_contadores.genruntimeconfig.cache
